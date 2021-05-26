@@ -1,0 +1,112 @@
+﻿PRO Einstellungen
+Einstellungen
+Erweitert
+CPU-Taktung
+Standard
+Plugins
+UMD™/ISO Driver
+XMB™ USB-Modus
+Fälsche Regionscode
+Fälsche Firmware
+Fälsche MAC Adresse
+Gameboot Überspringen
+PSP Start-Logo Überspringen
+PRO Netzwerk-Update benutzen
+Flash Schutz
+Angepasste Browser Speicherpfad
+USB Aufladung
+Slim Farben
+Nutze version.txt
+Nutze usbversion.txt
+Verstecke PIC0.PNG und PIC1.PNG im Spiel-Menü
+Pausierte Spiele Schutz
+Verschiedene Treiber für ISO/CSO/UMD™ Spiele.
+Verbindet den MS, Flash0-3 oder das UMD™ Laufwerk via USB.
+Zum sehen von UMD™-Videos mit Regionssperre.
+Fälscht deine Firmware unter System-Information.
+Fälscht deine MAC Adresse unter System-Information.
+Überspringt das Gameboot Logo.
+Überspringt das Sony Start Logo.
+Zum runterladen von neuen PRO-Revisionen.
+Deaktiviert die Möglichkeit in den Flash0 zu schreiben.
+Patcht den Browser zum Speichern von Dateien unter /ISO.
+Zum Aufladen der PSP™ via USB.
+Freischaltung der Slim Farben im XMB™.
+Fälscht die Installierte Version der PSP™.
+Für das Verbinden mit einer PS3™.
+Versteckt das Symbol und das Hintergrundbild von Spielen.
+Verhindert die Löschung von Pausierten Spielen.
+Normal
+M33 Treiber
+Sony NP9660
+Inferno Treiber
+Memory Stick™
+UMD™ Disk
+Standard
+Japan
+Amerika
+Europa
+Korea
+Großbritannien
+Mexiko
+Australien
+Naher/Ferner Osten
+Taiwan
+Russland
+China
+Debugmodus I
+Debugmodus II
+Nie
+POPS
+GAME
+VSH
+POPS & GAME
+GAME & VSH
+VSH & POPS
+Immer
+Tastenbelegung einstellen
+Tauscht die Bestätigen und Abbrechen Taste.
+Passwort Abfrage
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+NoDRM Engine
+Beschleunige Memory Stick™-Zugriff
+Verstecke CFW Ordner
+Analog-Pad Deaktivierung
+Erlaube Sonderzeichen
+Zeichen Limit Erhöhung
+Support für ältere Plugins
+Verstecke UMD™ Update
+Use ISO Cache
+ISO Cache Größe
+ISO Cache Nummer
+ISO Cache Praktik
+Nutze Kopieren/Einfügen Funktion
+Passwort Abfrage beim Betreten des XMB™.
+Zum Aktivieren von XMB™ Plugins.
+Zum Aktivieren von GAME Plugins.
+Zum Aktivieren von POPS Plugins.
+Erlaubt das Nutzen von Content von Inaktiven PSN® Accounts.
+Beschleunigt die Lesegeschwindigkeit des Memory Sticks.
+Verhindert die Löschung von CFW Ordnern durch Spiele.
+Deaktiviert das Analog-Pad in Spielen.
+Erlaubt Sonderzeichen für ISOs.
+Erhöht das Limit der Zeichen im Internet Browser.
+Erhöht den Support für ältere Plugins.
+Versteckt das UMD Update von UMDs.
+Aktiviert caching für ISO Dateien.
+Zum Einstellen der ISO Cache Größe.
+Zum Einstellen der ISO Cache Nummer.
+Zum Einstellen der ISO Cache Praktik.
+Analog Links/Rechts + Bestätigen = Kopieren/Einfügen.
+LRU
+Zufällig
+CPU in XMB™
+CPU in UMD™/ISO
+Zum Einstellen der Arbeitsgeschwindigkeit im XMB™.
+Zum Einstellen der Arbeitsgeschwindigkeit in GAME/POPS.
+Standard
+Aus
+An
+Aus Datei

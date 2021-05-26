@@ -1,0 +1,112 @@
+﻿Ajustes PRO
+Configurações
+Avançadas
+Velocidade da CPU
+Padrão
+Plugins
+UMD™/ISO Driver
+Modo de Conexão USB
+Falsificar Região
+Ocultar Firmware
+Ocultar o endereço MAC
+Omitir Gameboot
+Omitir Coldboot
+Servidor personalizardo
+Proteger Flash durante o modo USB
+Local de gravação personalizado
+Recarga USB
+Cores
+Usar version.txt
+Usar usbversion.txt
+Ocultar PIC0.PNG e PIC1.PNG
+Evitar exclusão ao hibernar (apenas PSP™GO)
+Drivers diferentes para jogos em ISO/CSO/UMD™.
+Define o dispositivo a ser lido ao conectar com PC.
+Permite falsificar a região do PSP™.
+Falsifica a Firmware utilizando sys_version.txt.
+Altera o endereço MAC utilizando sys_mac_adress.txt.
+Ignora o logotipo PSP™ ao iniciar jogos.
+Ignora o logotipo SCEI ao iniciar o sistema.
+Ativa conexão customizada para baixar atualizações PRO.
+Desabilita a capacidade de alterar a Flash0.
+Altera o navegador para salvar os arquivos na pasta ISO.
+Ativa/desativa a recarga pelo cabo USB.
+Permite usar cores mais vivas no PSP™ 1000 (FAT).
+Falsifica a Firmware instalada no seu PSP™.
+Falsifica a Firmware do PSP™ quando conectado ao PS3™.
+Oculta sinopse e plano de fundo de jogos e homebrews.
+Impede a eliminação do Savestate ao inicia-lo.
+Normal
+M33 Driver
+Sony NP9660
+Inferno
+Memory Stick™
+Disco UMD™
+Padrão
+Japão
+America
+Europa
+Coreia
+Inglaterra
+Mexico
+Australia
+Hong Kong
+Taiwan
+Russia
+China
+Debug I
+Debug II
+Nunca
+POPS
+GAME
+VSH
+POPS & GAME
+GAME & VSH
+VSH & POPS
+Sempre
+Atribuir botões
+Troca as funções Confirmar e Retornar entre X e O.
+Senha de acesso
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+NoDRM Engine
+Aceleração do Memory Stick™
+Ocultar arquivos da CFW
+Bloquear o uso do analógico em jogos
+Permitir Non-latin1 no nome de arquivos .ISO
+Limite OSK
+Suporte a Plugins antigos
+Ocultar atualização via UMD™
+Usar ISO Cache
+Tamanho do Cache
+Valor do Cache
+Política de Cache
+Abilita copiar/colar no teclado virtual.
+Solicita senha ao iniciar o sistema.
+Ativa/desativa a função de ler plugins na XMB™.
+Ativa/desativa a função de ler plugins em jogos.
+Ativa/desativa a função de ler plugins em jogos de PS1.
+Permite usar conteúdos (DLCs) decriptados.
+Aumenta a velocidade de leitura do Memory Stick™.
+Bloqueia a capacidade de apagar pastas da CFW.
+Desativa o controle analógico em jogos.
+Permite o uso caracteres especiais para ISOs.
+Aumenta o limite de caracteres do teclado virtual do navegador.
+Aumenta o suporte a Plugins antigos.
+Permite ocultar atualizações contidas em UMD™s.
+Habilita o Cache para arquivos ISO.
+Ajusta o tamanho (em MB) do Cache.
+Ajusta o valor Cache
+Ajusta a diretiva do ISO Cache.
+Analog/esquerda + Enter copia, analog/direita + Enter cola.
+LRU
+Aleatório
+Frequencia da CPU na XMB™
+Frequencia da CPU em jogos
+Ajusta a velocidade do processador na XMB™.
+Ajusta a velocidade do processador em jogos.
+Padrão
+Desligado
+Ligado
+Do arquivo

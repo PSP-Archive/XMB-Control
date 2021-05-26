@@ -1,0 +1,99 @@
+﻿ME Réglages
+Arret
+Marche
+A partir d un fichier
+Configuration
+Avancee
+Vitesse CPU
+Standard
+Plugins
+Pilotes UMD™/ISO 
+Peripherique USB
+Fausser la region
+Passer le Coldboot
+Passer le Gameboot
+Modifier la version du firmware a partir d un fichier
+Modifier MAC Address
+Dossier des homebrews
+Cacher PIC0.PNG et PIC1.PNG
+Cacher icones donnees endommagees
+Mise à jour reseau (L)CFW ME
+Lancement automatique du programme
+Utiliser Patch UMD™-Video 
+Couleurs Slim
+Recharge par USB
+Utiliser VSH Menu
+Utiliser version.txt
+Acceleration du Memory Stick™
+Pilotes differents pour Jeux ISO/CSO/UMD™.
+Connecter la MS, Flash0-3 ou le lecteur UMD™ en USB.
+Pouvoir dezonner des Video-UMD™ d autres pays.
+Passer le logo Sony.
+Passer le logo du Gameboot.
+Modifier version du firmware dans Informations Systeme.
+Modifier la MAC Adresse dans Informations Systeme.
+Utiliser la version du kernel pour les homebrews.
+Cacher l icone et les fonds d ecran des jeux.
+Cacher icones donnees endommagees dans JEU.
+Pour telecharger une nouvelle version du (L)CFW ME.
+Lancer/PSP/GAME/BOOT/EBOOT.PBP au demarrage de la PSP™.
+Utiliser Patch pour monter un UMD™-Video.
+Activer Couleurs Slim dans le XMB™.
+Recharge la PSP™ si elle n'est pas en mode USB.
+Activer le VSH Menu dans le XMB™.
+Modifier la version de firmware de votre PSP™.
+Accelerer la vitesse de lecture du Memory Stick™.
+Normal
+OE isofs
+M33 driver
+Sony NP9660
+ME driver
+Memory Stick™
+UMD™ Disc
+Defaut
+Japon
+Amerique
+Europe
+Coree
+Angleterre
+Mexique
+Australie
+Est
+Taiwan
+Russie
+Chine
+Debug I
+Debug II
+Jamais
+VSH
+GAME
+VSH & GAME
+POPS
+VSH & POPS
+GAME & POPS
+Toujours
+Assigner les boutons
+Intervertir les boutons de confirmation et de retour.
+Executer OPNSSMP.BIN
+Executer PBOOT.PBP
+Controle par mot de passe
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+Augmenter la limite de caracteres OSK
+Utiliser copier/coller du texte dans OSK.
+Cacher les mises a jour UMD™ 
+Executer OPNSSMP.BIN au lancement d un fichier ISO/CSO.
+Agrandir le menu contextuel pour les fichiers ISO/CSO.
+Activer controle par mot de passe pour acceder au XMB™.
+Activer Plugins dans le XMB™.
+Activer Plugins dans les jeux et les homebrews.
+Activer Plugins pour les jeux PS1.
+Augmenter la limte de caractere dans le navigateur.
+Analog gauche+Entree,Copier.Analog droite+Entree,Coller
+Cacher mise à jour UMD™ dans la liste des jeux.
+Horloge CPU XMB™
+Horloge CPU dans les jeux 
+Ajuster la rapidite de la PSP™ dans le XMB™.
+Ajuster la rapidite de la PSP™ dans les jeux.
+Defaut

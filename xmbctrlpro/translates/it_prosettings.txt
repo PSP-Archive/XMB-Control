@@ -1,0 +1,112 @@
+﻿PRO Impostazioni
+Configurazione
+Avanzate
+Velocità CPU
+Standard
+Plugins
+UMD™/ISO Driver
+Dispositivo USB in XMB™
+Fake Region
+Modifica la versione del firmware dal file
+Modifica l'indirizzo MAC
+Salta il Gameboot
+Salta il Coldboot
+Aggiorna via PRO Network
+Prtezione flash
+Slavataggio personalizzat del browser
+Ricarica batteria via USB
+Usa gli Slim Colors
+Usa version.txt in SEPLUGINS
+Usa usbversion.txt in SEPLUGINS
+Nascondi PIC0.PNG e PIC1.PNG
+Previeni cancellazione in Sleep Mode
+Scegli il driver di caricamento per ISO/CSO/UMD™.
+Connette a MS™, alle flash0-3 o all'UMD™ via USB.
+Per visualizzare UMD™ Video di altri paesi.
+Modifica il firmware nel menu informazioni.
+Modifica l'indirizzo MAC nel menu informazioni.
+Salta il boot dei giochi.
+Salta il logo sony all'avvio.
+Per aggiornare all'ultima versione del PRO.
+Disabilita la scrittura nella flash0.
+PAtcha il browser per salvare contenuti in /ISO.
+Ricarica la PSP™ anche fuori dall'USB Mode.
+Abilita gli Slim Colors nella XMB.
+Camuffa il firmware installato nella PSP™.
+Per la connessione della PSP™ ai sistemi PS3™.
+Nascnde le icone e il background dei giochi.
+Previene la cancellazione dei giochi in pausa.
+Normal
+M33 Driver
+Sony NP9660
+Inferno
+Memory Stick™
+UMD™ Disc
+Default
+Japan
+America
+Europe
+Korea
+England
+Mexico
+Australia
+Hong Kong
+Taiwan
+Russia
+China
+Debug I
+Debug II
+Mai
+POPS
+GAME
+VSH
+POPS & GAME
+GAME & VSH
+VSH & POPS
+Sempre
+Pulsante di conferma
+Scambia il ruolo dei pulsanti X e O.
+Controllo password
+Plugins in XMB™
+Plugins in GAME
+Plugins in POPS
+NoDRM Engine
+Memory Stick™ Speed Up
+Nascondi i files del PRO
+Blocca analogico in game
+Consenti caratteri Non-latin1 per le ISO
+Aumenta limite caratteri OSK
+Supporto a vecchi plugins
+Nascondi UMD™ Update
+Usa la ISO Cache
+Dimensini ISO Cache
+Numero ISO Cache
+ISO Cache Policy
+Usa copia/incolla in OSK
+Richiede la password a ogni accesso della XMB™.
+Attiva i plugins nella XMB™.
+Attiva i plugins in giochi e homebrews.
+Attiva i plugins per i giochi PS1™.
+Usare i contenuti di un account PSN® inattivo.
+Velocizza l'accesso ai dati nella Memory Stick™.
+Previene la cancellazione dei files del PRO.
+Disabilita il pad analogico nei giochi.
+Consente caratteri speciali nei nomi delle ISO.
+Aumenta il limite dei caratteri nel browser.
+Estende il supporto ai plugin vecchi.
+Nascnde l'aggiornamento presente negli UMD™.
+Abilita l'utilizzo della cache per le ISO.
+Settaggio delle dimensioni della ISO Cache.
+Settaggio del numero della ISO Cache.
+Settaggio della ISO Cache Policy.
+Analog L + X, copia; analog R + X, incolla.
+LRU
+Random
+CPU Clock in XMB™
+CPU Clock in Game
+Seleziona la velocità del clock nella XMB™.
+Seleziona la velocità del clock nei giochi.
+Default
+Off
+On
+Dal file

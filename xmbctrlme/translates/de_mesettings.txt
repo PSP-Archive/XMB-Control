@@ -1,0 +1,99 @@
+﻿ME Einstellungen
+Deaktiviert
+Aktiviert
+Von Datei
+Einstellungen
+Erweitert
+CPU-Taktung
+System
+Plugins
+UMD™/ISO Driver
+XMB™ USB-Modus
+Fälsche Regionscode
+PSP™ Start-Logo Überspringen
+Gameboot Überspringen
+Fälsche Firmware
+Fälsche MAC Adresse
+Flash Schutz
+Verstecke PIC0.PNG und PIC1.PNG im Spiel-Menü
+Verstecke defekte Daten
+ME Netzwerk-Update benutzen
+Autostart
+Nutze UMD™-Video Patch
+Slim Farben
+USB Aufladung
+Vsh-Menü benutzen
+Nutze version.txt
+Beschleunige Memory Stick™-Zugriff
+Verschiedene Treiber für ISO/CSO/UMD™ Spiele.
+Verbindet Memory Stick™, Flash0-3 oder UMD™ Laufwerk via USB.
+Zum sehen von UMD™-Videos mit Regionssperre.
+Überspringt das Sony Start Logo.
+Überspringt das Gameboot Logo.
+Fälscht deine Firmware unter System-Information.
+Fälscht deine MAC Adresse unter System-Information.
+Deaktiviert die Möglichkeit in den Flash0 zu schreiben.
+Versteckt das Symbol und das Hintergrundbild von Spielen.
+Versteckt defekte Daten unter Spiel.
+Zum runterladen von neuen ME-Revisionen.
+Startet /PSP/GAME/BOOT/EBOOT.PBP beim Booten der PSP.
+Nutze Patch zum mounten von UMD™-Videos.
+Freischaltung der Slim Farben im XMB™.
+Zum Aufladen der PSP via USB.
+Aktiviert das VSH-Menü im XMB™.
+Fälscht die Installierte Version der PSP™.
+Beschleunigt die Lesegeschwindigkeit des Memory Stick™.
+Normal
+OE isofs
+M33 Treiber
+Sony NP9660
+ME Treiber
+Memory Stick™
+UMD™-Disk
+Standard
+Japan
+Amerika
+Europa
+Korea
+Großbritannien
+Mexiko
+Australien
+Hongkong
+Taiwan
+Russland
+China
+Debugmodus I
+Debugmodus II
+Nie
+VSH
+GAME
+VSH & GAME
+POPS
+VSH & POPS
+GAME & POPS
+Immer
+Tastenbelegung einstellen
+Tauscht die Bestätigen und Abbrechen Taste.
+OPNSSMP.BIN ausführen
+PBOOT.PBP ausführen
+Passwort Abfrage
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+Zeichen Limit Erhöhung
+Nutze Kopieren/Einfügen Funktion
+Verstecke UMD™ Update
+Führt die OPNSSMP.BIN in ISO/CSO Dateien aus.
+Erweitert das Kontext Menü für ISO/CSO Dateien.
+Passwort Abfrage beim Betreten des XMBs.
+Zum Aktivieren von XMB™ Plugins.
+Zum Aktivieren von GAME Plugins.
+Zum Aktivieren von POPS Plugins.
+Erhöht das Limit der Zeichen im Internet Browser.
+Analog Links/Rechts + Bestätigen = Kopieren/Einfügen.
+Versteckt das UMD™ Update von UMD™ Disks.
+CPU in XMB™
+CPU in UMD/ISO
+Zum Einstellen der Arbeitsgeschwindigkeit im XMB™.
+Zum Einstellen der Arbeitsgeschwindigkeit in GAME/POPS.
+Standard

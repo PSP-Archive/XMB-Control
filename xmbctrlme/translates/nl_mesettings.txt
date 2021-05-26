@@ -1,0 +1,99 @@
+﻿ME Settings
+Off
+On
+From file
+Configuration
+Advanced
+CPU Speed
+Standard
+Plugins
+UMD™/ISO Driver
+USB Device
+Fake Region
+Skip Coldboot
+Skip Gameboot
+Spoof Firmware Version From File
+Spoof MAC Address
+Flash Protect
+Hide PIC0.PNG and PIC1.PNG
+Hide Corrupt Icons
+ME Network Update
+Autorun program at /PSP/GAME/BOOT/EBOOT.PBP
+Use UMD-Video Patch
+Slim Colors
+USB Charge
+Use VSH Menu
+Use version.txt
+Memory Stick™ Speed Up
+Different Drivers for ISO/CSO/UMD™ Games.
+Conects the MS, Flash0-3 or UMD™ Drive to USB.
+For viewing Video-UMD™ from other Countries.
+Skips the Sony Boot Logo.
+Skips the Gameboot Logo.
+Spoofs Firmware under system information.
+Spoofs you MAC Adress under System Information.
+Disables the ability to write in Flash0.
+Hides the Icon and the Background of Games.
+Hides corrupted Icons under Game.
+For downloading new ME CFW releases.
+Starts /PSP/GAME/BOOT/EBOOT.PBP when the PSP™ boots.
+Use Patch for UMD-Video Mount.
+Enables the Slim Colors in the XMB.
+Charges the PSP even if the PSP™ is not in USB Mode.
+Enables the VSH Menu in the XMB™.
+Fakes the installed version of your PSP™.
+Speeds up the reading speed of the Memory Stick™.
+Normal
+OE isofs
+M33 driver
+Sony NP9660
+ME driver
+Memory Stick™
+UMD™ Disc
+Default
+Japan
+America
+Europe
+Korea
+England
+Mexico
+Australia
+East
+Taiwan
+Russia
+China
+Debug I
+Debug II
+Never
+VSH
+GAME
+VSH & GAME
+POPS
+VSH & POPS
+GAME & POPS
+Always
+Button Assign
+Swaps the confirm and back Button.
+Excute OPNSSMP.BIN
+Excute PBOOT.PBP
+Password Control
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+OSK Limit Increase Characters
+Use Copy/Paste Text in OSK.
+Hide UMD™ Update
+Excutes the OPNSSMP.BIN when starting ISO/CSO files.
+Increases the context menu for ISO/CSO files.
+Activates Password Control for accessing the XMB.
+Activates Plugins for the XMB™.
+Activates Plugins for PSP Games and Homebrews.
+Activates Plugins for PS1 Games.
+Increases the OSK Charecters in Internet Browser.
+Analog Left + Enter, Copy. Analog Right + Enter, Paste.
+Hides the UMD™ Update from Main Game Bar.
+CPU Clock XMB™
+CPU Clock Game
+Adjust how fast the PSP is working in the XMB™.
+Adjust how fast the PSP is working in Games.
+Default

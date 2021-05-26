@@ -1,0 +1,99 @@
+﻿ME Configurações
+Desligado
+Ligado
+Do Arquivo
+Definições
+Avançadas
+Velocidade da CPU
+Padrão
+Plugins
+Driver UMD™/ISO
+Dispositivo USB
+Falsificar Região
+Omitir Coldboot
+Omitir Gameboot
+Esconder Firmware
+Esconder o endereço MAC
+Proteger Flash
+Esconder PIC0.PNG e PIC1.PNG
+Esconder itens corrompidos
+Atualização ME via rede
+Autoiniciar programa
+Usar patch Video-UMD
+Cores
+Recarga USB
+Usar VSH menu
+Usar version.txt
+Aceleração do Memory Stick™
+Drivers diferentes para jogos em ISO/CSO/UMD™
+Define o dispositivo a ser lido ao conectar com PC.
+Falsifica a região do PSP™.
+Ignora o logotipo SCEI ao iniciar o sistema.
+Ignora o logotipo PSP™ ao iniciar jogos.
+Falsifica sua Firmware utilizando sys_version.txt
+Falsifica o endereço MAC utilizando sys_mac_adress.txt.
+Desabilita a capacidade de alterar a Flash0.
+Oculta sinopse e plano de fundo de jogos e homebrews.
+Esconde icones de arquivos corrompidos no menu Jogo.
+Ativa conexão customizada para baixar atualizações ME.
+Inicia o arquivo na pasta BOOT ao iniciar o PSP™.
+Utiliza o patch para montar UMD-videos.
+Permite usar cores mais vivas no PSP™ 1000 (FAT).
+Ativa/desativa a recarga pelo cabo USB.
+Ativa o VSH Menu na XMB™.
+Falsifica a Firmware instalada no seu PSP™.
+Aumenta a velocidade de leitura do Memory Stick™.
+Normal
+OE isofs
+M33 driver
+Sony NP9660
+ME driver
+Memory Stick
+Disco UMD™
+Padrão
+Japão
+America
+Europa
+Coreia
+Inglaterra
+Mexico
+Australia
+Oriente
+Taiwan
+Russia
+China
+Debug I
+Debug II
+Nunca
+VSH
+GAME
+VSH & GAME
+POPS
+VSH & POPS
+GAME & POPS
+Sempre
+Atribuir botões
+Troca as funções Confirmar e Retornar entre X e O.
+Executar OPNSSMP.BIN
+Executar PBOOT.PBP
+Senha de acesso
+XMB™ Plugins
+GAME Plugins
+POPS Plugins
+Limite OSK
+Usar copiar/colar no teclado virtual
+Ocultar atualizações via UMD™
+Executa OPNSSMP.BIN ao iniciar arquivos ISO/CSO.
+Acrescenta conteudos em arquivos ISO/CSO no Menu de Contexto.
+Solicita senha ao iniciar o sistema.
+Ativa/desativa a função de ler plugins na XMB™.
+Ativa/desativa a função de ler plugins em jogos.
+Ativa/desativa a função de ler plugins em jogos de PS1.
+Aumenta a quantidade de caracteres do teclado virtual.
+Analog/esquerda + Enter copia, analog/direita + Enter cola.
+Permite ocultar atualizações contidas em UMD™s.
+Frequencia da CPU na XMB™
+Frequencia da CPU em jogos
+Ajusta a velocidade do processador na XMB™.
+Ajusta a velocidade do processador em jogos.
+Padrão

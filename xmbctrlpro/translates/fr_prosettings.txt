@@ -1,0 +1,112 @@
+﻿PRO Réglages
+Configuration
+Avancee
+Vitesse CPU
+Standard
+Plugins 
+Pilotes UMD™/ISO 
+Peripherique USB
+Fausser la region
+Modifier la version du firmware avec un fichier
+Modifier la MAC Adresse
+Passer le Gameboot
+Passer le Coldboot
+Utiliser mise à jour par serveur
+Protection du flash
+Modifier emplacement de sauvegarde du navigateur
+Recharge par USB
+Couleurs Slim
+Utiliser version.txt  à partir ../seplugins/
+Utiliser usbversion.txt à partir ../seplugins/
+Cacher PIC0.PNG et PIC1.PNG
+Prevenir l effacement d hibernation
+Utiliser differents pilotes pour les ISO/CSO/UMD™.
+Connecter le Memory Stick™, Flash0-3 ou l UMD™ en USB.
+Pouvoir regarder des Video-UMDs™ d'autres pays.
+Modif version firmware dans Informations Systeme.
+Modif MAC Adresse dans Informations Systeme.
+Passer le logo du Gameboot.
+Passer le logo Sony.
+Pour telecharger un nouveau (L)CFW PRO.
+Desactiver la possibilite d ecrire dans le Flash0.
+Patch navigateur (sauv. les fichiers dans /ISO).
+Recharge la PSP™ si elle n'est pas en mode USB.
+Activer Couleurs Slim dans le XMB™.
+Fausser la version de firmware de votre PSP™.
+Pour connecter la PSP™ a une PS3™
+Cacher l icone et les fonds d ecran des jeux.
+Prevenir l effacement d'un jeu sur pause.
+Normal
+M33 driver
+Sony NP9660
+Inferno
+Memory Stick™
+UMD™ Disc
+Defaut
+Japon
+Amerique
+Europe
+Coree
+Angleterre
+Mexique
+Australie
+Hong Kong
+Taiwan
+Russie
+Chine
+Debug I
+Debug II
+Jamais
+POPS
+GAME
+VSH
+POPS & GAME
+GAME & VSH
+VSH & POPS
+Toujours
+Assigner boutons 
+Intervertir boutons de confirmation et de retour.
+Controle par mot de passe
+Plugins XMB™ 
+Plugins GAME 
+Plugins POPS 
+Moteur NoDRM 
+Acceleration du Memory Stick™
+Cacher les fichiers du CFW 
+Desactiver stick analogique dans le jeu
+Permettre les noms de fichiers ISO Non-latin1  
+Augmenter la limite de caracteres OSK
+Compatibilite avec les anciens plugins
+Cacher mise a jour UMD™
+Utiliser le cache ISO
+Taille du cache pour les ISO
+Numero du cache ISO
+Gestion du cache ISO
+Uitliser Copier/coller dans OSK 
+Activer mot de passe pour acceder au XMB™.
+Activer les plugins pour le XMB™.
+Activer les plugins dans les jeux et les homebrews
+Activer les plugins pour les jeux PS1.
+Utiliser le contenu d'un compte PSN® Inactif.
+Accelerer la vitesse de lecture du Memory Stick™.
+Bloquer l'effacement des dossiers du CFW dans JEU.
+Desactiver Analog-Pad dans les jeux.
+Autoriser les caracteres speciaux pour les ISO.
+Augmenter la limite de caracteres OSK du navigateur.
+Augmenter la compatibilite des anciens plugins.
+Cacher les mises à jour des UMDs™.
+Activer le cache pour les fichiers ISO.
+Pour ajuster la taille du cache ISO.
+Pour ajuster la quantite de cache ISO.
+Pour ajuster la gestion du cache ISO.
+Analog gauche+Entree,Copier.Analog droite+Entree,Coller
+LRU
+Aleatoire
+Horloge CPU XMB™
+Horloge CPU dans les jeux
+Ajuster la rapidite de la PSP™ dans le XMB™.
+Ajuster la rapidite de la PSP™ dans les jeux.
+Defaut
+Arret
+Marche
+A partir d'un fichier

@@ -1,0 +1,99 @@
+﻿ME Impostazioni
+Off
+On
+Dal file
+Configurazione
+Avanzate
+Velocità CPU
+Standard
+Plugins
+UMD™/ISO Driver
+Dispositivo USB in XMB™
+Fake Region
+Salta il Coldboot
+Salta il Gameboot
+Modifica la versione del firmware dal file
+Modifica l'indirizzo MAC
+Protezione flash
+Nascondi PIC0.PNG e PIC1.PNG
+Nascondi icone corrotte
+Aggiorna via ME Network
+Autoavvia /PSP/GAME/BOOT/EBOOT.PBP
+Usa la patch UMD™ Video
+Usa Slim Colors
+Carica batteria via USB
+Usa il VSH Menu
+Use version.txt in SEPLUGINS
+Memory Stick™ Speed Up
+Scegli il driver per caricare ISO/CSO/UMD™.
+Connette la MS™, le flash0-3 o l'UMD™ via USB.
+Per visualizzare UMD™ Video di altri paesi.
+Salta il logo sony all'avvio.
+Salta il video all'avvio dei giochi.
+Modifica la versione del FW nel menu informazioni.
+Modifica l'indirizzo MAC nel menu informazioni.
+Non consente la scrittura nella flash0.
+Nascnde le icone e il background dei giochi.
+Nascnde le icone corrotte nel menu giochi.
+Per aggiornare all'ultima versine del ME.
+Esegue /PSP/GAME/BOOT/EBOOT.PBP all'avvio.
+Utilizza la patch per l'utilizzo di ISO Video.
+Abilita gli Slim Colors nella XMB™.
+Ricarica la batteria anche fuori dall'USB Mode.
+Abilita il VSH Menu nella XMB™.
+Camuffa la versione del sistema della PSP™.
+Velocizza l'accesso ai dati sulla Memory Stick™.
+Normal
+OE IsoFS
+M33 Driver
+Sony NP9660
+ME Driver
+Memory Stick™
+UMD™ Disc
+Default
+Japan
+America
+Europe
+Korea
+England
+Mexico
+Australia
+East
+Taiwan
+Russia
+China
+Debug I
+Debug II
+Mai
+VSH
+GAME
+VSH & GAME
+POPS
+VSH & POPS
+GAME & POPS
+Sempre
+Pulsante di conferma
+Scambia il ruolo dei pulsanti X e O.
+Esegui OPNSSMP.BIN
+Esegui PBOOT.PBP
+Controllo password
+Plugins in XMB™
+Plugins in GAME
+Plugins in POPS
+Aumenta limite caratteri OSK
+Abilita il copia/incolla in OSK
+Nascondi aggiornamento in UMD™
+Esegue l'OPNSSMP.BIN per i giochi ISO/CSO.
+Aumenta il menu contestuale per giochi ISO/CSO.
+Richiede la password a ogni accesso alla XMB™.
+Attiva i plugins nella XMB™.
+Attiva i Plugins in giochi e homebrews.
+Attiva i plugins nei giochi PS1™.
+Aumenta il limite dei caratteri OSK nel Browser.
+Analog L + X, copia; analog R + X, incolla.
+Nasconde l'update presente nell'UMD™.
+CPU Clock in XMB™
+CPU Clock in Game
+Seleziona la velocità del clock nella XMB™.
+Seleziona la velocità del clock nei giochi.
+Default

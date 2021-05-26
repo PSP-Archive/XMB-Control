@@ -1,0 +1,1 @@
+copy xmbctrl.prx F:\seplugins\xmbcontrol\xmbctrl.prx

@@ -1,0 +1,112 @@
+﻿PRO Configuración
+Configuración
+Avanzado
+Velocidad CPU
+Ajustes Original
+Plugins
+Driver UMD™/ISO
+Dispositivo USB en el XMB™
+Falsificar Región
+Modificar Versión del Firmware
+Ocultar/Falsificar Dirección MAC
+Saltar logo de Sony
+Saltar Gameboot
+Actualización CFW PRO por RED
+Protección de la Flash0
+Activar HCSL
+Recarga vía USB
+Colores Slim
+Usar Version.txt desde ../seplugins/
+Usar Usbversion.txt desde ../seplugins/
+Ocultar PIC0.PNG y PIC1.PNG en Juegos
+Prevenir Modo Hibernación.
+Selecciona el Driver para ISO/CSO/UMD™.
+Conexión USB: Memory Stick™, Flash(0-3) o UMD™.
+Para visualizar Videos-UMD de otras regiones.
+Falsificar Versión del Firmware en Información del Sistema.
+Falsificar tu dirección MAC en Información del Sistema.
+Ignorar el logo de Sony al encender o reiniciar el PSP™.
+Ignorar la visualización de los Gameboots.
+Descarga nuevas Actualizaciones del CFW PRO.
+Desactiva la escritura a la flash0.
+Descarga archivos de internet, se guardan en /ISO
+Carga la bateria aun cuando el PSP™ no está en MODO USB.
+Habilita los Colores SLIM en el XMB™.
+Para juegos que requieran una versión más actual.
+Para conectar el PSP™ al PS3™.
+Ocultas iconos y fondos de los juegos.
+Previene la eliminación del juego en pausa.
+Normal
+M33 Driver
+Sony NP9660
+Inferno
+Memory Stick™
+Disco UMD™
+Por defecto
+Japón
+América
+Europa
+Korea
+Reino Unido
+México
+Australia
+Hong Kong
+Taiwán
+Rusia
+China
+Debug I
+Debug II
+Nunca
+POPS
+JUEGOS
+VSH
+POPS & JUEGOS
+JUEGOS & VSH
+VSH & POPS
+Siempre
+Asignación de Botones.
+Cambiar botones de confirmación y volver.
+Control de Password
+Plugins en XMB™
+Plugins en GAME
+Plugins en POPS
+Motor NoRM
+Acelerar el acceso a Memory Stick™
+Ocultar Archivos CFW
+Bloquear el análogo en juegos
+Activar Non-latin1
+Incrementar Limite de Caracteres OSK
+Soporte a plugins antiguos
+Ocultar Actualización del UMD™.
+Activar cache ISO
+Tamaño del cache ISO
+Bloques del cache ISO
+Directiva del ISO cache
+Usar Copiar/Pegar Texto en el teclado OSK.
+Activa el Password para acceder al menú XMB.
+Activar los Plugins en el XMB™.
+Activar los Plugins en juegos y homebrews.
+Activar los Plugins en juegos de PS1.
+Utilizar el contenido de una cuenta PSN® inactiva.
+Permite Acelerar la lectura de la Memory Stick™.
+Bloquear capacidad de borrar carpetas CFW por Juegos
+Deshabilita el pad analógico en juegos.
+Permite el uso especial de caracteres para ISOs.
+Incrementa los caracteres OSK en el Navegador del Internet.
+Aumenta el soporte para Plugins antiguos.
+Oculta las Actualizaciones que traen los UMD™
+Habilita la cache para ISOs.
+Ajusta el tamaño del cache para ISOs.
+Ajusta el número de bloques del cache para ISOs.
+Ajusta la directiva del cache para ISOs.
+Analogo Izq + Enter=Copiar. Analogo Der + Enter=Pegar.
+LRU
+Aleatorio
+Velocidad CPU/XMB™
+Velocidad CPU/GAME
+Ajusta la velocidad del PSP™ en el XMB™
+Ajusta la velocidad del PSP™ en los juegos.
+Por defecto
+No
+Si
+Desde el Archivo
